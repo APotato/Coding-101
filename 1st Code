@@ -1,0 +1,10 @@
+confirm ("What's your name?")
+if
+{
+	var name = ("Adam")
+    console.log ("Hello")
+    };
+else
+{
+	console.log (" I don't know who you are, but hi anyway, i guess.")
+};
